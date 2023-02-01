@@ -7,3 +7,5 @@ def func(x):
 print(func(2))
 
 f = 234
+
+d = 111
